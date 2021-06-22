@@ -1,0 +1,14 @@
+www.python.org
+
+Instalar python no Linux...
+
+sudo apt-get install python3
+
+sudo apt-get install python3-pip
+
+sudo apt-get install idle3
+
+Sublime Text 3 - Exec. <Ctrl> "B"
+
+
+
