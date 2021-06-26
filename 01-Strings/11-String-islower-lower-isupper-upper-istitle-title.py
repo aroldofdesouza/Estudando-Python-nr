@@ -1,0 +1,8 @@
+nome=input('Digite seu nome.: ')
+print('islower - Verifica se esta em minuscula', nome.islower())
+print('lower - converte em minuscula.: ', nome.lower())
+print('isupper - verifica se esta em maiuscula.: ', nome.isupper())
+print('upper - converte em MAIUSCULA.: ', nome.upper())
+print('istitle - verifica se a primeira letra está em Maiuscula.: ', nome.istitle())
+print('title - converte em Título, primeira letra Maiuscula de cada palavra.: ', nome.title())
+print('isspace - retorna se existe espaço.: ', nome.isspace())

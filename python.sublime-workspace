@@ -80,10 +80,10 @@
 	"buffers":
 	[
 		{
-			"file": "02-String-Concatenacao.py",
+			"file": "10-String-isalpha-isdecimal-isdig.py",
 			"settings":
 			{
-				"buffer_size": 157,
+				"buffer_size": 69,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -141,6 +141,10 @@
 	],
 	"file_history":
 	[
+		"/C/Users/falec/Documents/Projetos/Python/Estudando-Python-nr/05-Input-Entradas-de-dados.py",
+		"/C/Users/falec/Documents/Projetos/Python/Estudando-Python-nr/04-String-Composicao.py",
+		"/C/Users/falec/Documents/Projetos/Python/Estudando-Python-nr/03-String-Fatiamento.py",
+		"/C/Users/falec/Documents/Projetos/Python/Estudando-Python-nr/02-String-Concatenacao.py",
 		"/C/Users/falec/Documents/Projetos/Python/Estudando-Python-nr/olamundo.py",
 		"/C/Users/falec/Documents/Projetos/HTML5/css3/elementos-flutuantes-pratica/elementos-flutuantes-pratica.html",
 		"/C/Users/falec/Documents/Projetos/HTML5/css3/modelo-caixa--margin--padding/index.html",
@@ -196,19 +200,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "02-String-Concatenacao.py",
+					"file": "10-String-isalpha-isdecimal-isdig.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 157,
+						"buffer_size": 69,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								157,
-								157
+								69,
+								69
 							]
 						],
 						"settings":
